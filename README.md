@@ -1,6 +1,6 @@
 # DE-BLOAT YOUR ANDROID [ROOT]
 
-In this repository, I want to share ways to optimize your smartphone, which will greatly help improve your device's battery, save RAM, and so on.
+In this guide, I want to share ways to optimize your smartphone, which will greatly help improve your device's battery, save RAM, and so on.
 
 ## REQUIREMENTS AND PREPARATION
 
