@@ -6,7 +6,7 @@ In this guide, I want to share ways to optimize your smartphone, which will grea
 
 ## REQUIREMENTS AND PREPARATION
 
-To do this, you need to flash and then install [**Magisk**](https://github.com/topjohnwu/Magisk/releases/tag/v29.0), or you can install a KernelKSU and then the KernelKSU apk, to root your phone. Then, install the [**--De-bloater--**](https://f-droid.org/es/packages/com.sunilpaulmathew.debloater/) and grant permissions to [De-bloater].
+To do this, you need to flash and then install [**Magisk**](https://github.com/topjohnwu/Magisk/releases/tag/v29.0), or you can install a KernelSU and then the KernelKSU apk, to root your phone. Then, install the [**--De-bloater--**](https://f-droid.org/es/packages/com.sunilpaulmathew.debloater/) and grant permissions to [De-bloater].
 
 ## DISABLING PROCESS
 
